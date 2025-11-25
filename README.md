@@ -1,4 +1,4 @@
-# AI_ML_Task_6: Breast Cancer Classification with Linear + RBF SVM + Full Visualization
+# AI_ML_Task_7: Breast Cancer Classification with Linear + RBF SVM + Full Visualization
 
 This project demonstrates **complete mastery of Support Vector Machines (SVM)** using the breast cancer dataset from `sklearn`. It covers the following key components:
 
